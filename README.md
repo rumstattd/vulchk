@@ -1,4 +1,9 @@
  Vulnerability Check
+ 
+To run this:
+clone this repository, cd into it and run:
+ 
+`pip3 install -e .`
 
  
 
