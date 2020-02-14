@@ -5,6 +5,9 @@ clone this repository, cd into it and run:
  
 `pip3 install -e .`
 
+Then run it to get options:
+
+`vulchk`
  
 
 Write a web API or command line tool that will download the NIST 2019 vulnerability list and then allow the user to enter one or more entries where each entry  specifies product name and optionally version number.   A list of matching critical vulnerabilities should be returned. 
